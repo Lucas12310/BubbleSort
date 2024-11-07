@@ -2,7 +2,7 @@ public class BubbleSort {
 
     // Método principal que chama os outros métodos
     public static void main(String[] args) {
-        int[] arr = {3, 2, 4, 5, 6}; // Array a ser ordenado
+        int[] arr = {5,3,8,4,6}; // Array a ser ordenado
         
         System.out.println("Array fora de ordem:");
         printArray(arr);
