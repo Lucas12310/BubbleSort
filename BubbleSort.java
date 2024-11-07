@@ -1,5 +1,6 @@
 public class BubbleSort {
-
+    // Alunos Lucas Fernandes da Silva e Vitor Gabriel da Silva Rocha
+    // 4 Periodo de ADS, apresentação será realizada a parte teórico com o PDF e a Pratica com o VS code
     // Método principal que chama os outros métodos
     public static void main(String[] args) {
         int[] arr = {5,3,8,4,6}; // Array a ser ordenado
